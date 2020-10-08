@@ -1,0 +1,9 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+django_girls_env
+db.sqlite3
+/static
+.DS_Store
+Django_Girls_Tutorial.code-workspace
